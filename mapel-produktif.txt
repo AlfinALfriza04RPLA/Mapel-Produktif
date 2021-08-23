@@ -2,3 +2,5 @@ Mata Pelajan
 1. Simulasi dan Komunikasi Digital
 2. Pemrograman Dasar
 3. Komputer Jaringan Dasarran Produktif
+4. Fisika
+5. Dasar Desain Grafis
