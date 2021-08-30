@@ -5,6 +5,9 @@ B. Komunikasi Daring Asinkron
     - Email
 C. Github
     - Membuat akun
+    - Membuat repository
+    - Membuat file baru
+    - Membuat commit
     - Membuat Repository (File baru dan commit)
 D. Git
     - Belum
