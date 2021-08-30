@@ -1,0 +1,5 @@
+Kompetensi SDKD
+A. Komuniskasi Daring sinkron
+B. Komunikasi Daring 
+C. Github
+D. Git
