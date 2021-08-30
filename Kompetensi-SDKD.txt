@@ -4,4 +4,7 @@ A. Komuniskasi Daring Sinkron
 B. Komunikasi Daring Asinkron
     - Email
 C. Github
+    - Membuat akun
+    - Membuat Repository (File baru dan commit)
 D. Git
+    - Belum
